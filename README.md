@@ -2,7 +2,7 @@
 
 **Data Engineer | Ex-Amazon SDE | Python • SQL • AWS • GenAI**
 
- 💼 7+ years of experience across enterprise application development, data engineering, and applied AI
+ 💼 6+ years of experience across enterprise application development, data engineering, and applied AI
 - 🏦 Currently building internal GenAI and data applications at Barclays, supporting Risk, Finance & Treasury workflows
 - 🎓 MS in Computer Science (University of Missouri-Kansas City) · MS in Data Science & Analytics in progress (New England College)
 - 🔭 Currently exploring: end-to-end data pipeline and dashboard projects using Python, SQL, and Tableau
