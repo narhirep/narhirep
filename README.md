@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi, I'm Piyush
 
-<!--
-**narhirep/narhirep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineer | Ex-Amazon SDE | Python • SQL • AWS • GenAI**
 
-Here are some ideas to get you started:
+ 💼 7+ years of experience across enterprise application development, data engineering, and applied AI
+- 🏦 Currently building internal GenAI and data applications at Barclays, supporting Risk, Finance & Treasury workflows
+- 🎓 MS in Computer Science (University of Missouri-Kansas City) · MS in Data Science & Analytics in progress (New England College)
+- 🔭 Currently exploring: end-to-end data pipeline and dashboard projects using Python, SQL, and Tableau
+- 🌱 Learning: advanced AWS architecture and GenAI application design
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL, PL/SQL, HTML, CSS
+
+**Frameworks & Libraries:** FastAPI, Streamlit, Pandas, NumPy, Polars
+
+**Cloud & Data:** AWS (Lambda, AppSync, DynamoDB, CloudFormation, EventBridge, IAM), Snowflake, Redshift
+
+**Databases:** SQL Server, MySQL, Oracle PL/SQL
+
+**Visualization & Reporting:** Tableau, SSRS, Excel
+
+**Tools & DevOps:** Git, GitLab CI/CD, SonarQube, PyTest, JIRA, AutoSys
+
+*Building reliable data systems and the tools that make them useful.*
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushnarhire/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushnarhire341@gmail.com)
+ 
